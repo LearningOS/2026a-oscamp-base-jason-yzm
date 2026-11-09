@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-jason-yzm",
-  "commit": "ada74a548c52829107ab0de9a73efd64067e37c3",
-  "score": 96,
+  "commit": "fdf12fd6ce111e0174f3e95aaee604df4ff43767",
+  "score": 100,
   "totalScore": 100,
   "exercises": [
     {
@@ -23,9 +23,9 @@
     {
       "name": "channel",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "process_pipe",
@@ -176,7 +176,7 @@
     }
   ],
   "student": "jason-yzm",
-  "runId": "42688373816",
+  "runId": "42689254949",
   "runAttempt": "1",
   "upload": {
     "status": "pending"
