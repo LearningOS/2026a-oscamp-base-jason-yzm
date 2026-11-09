@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-jason-yzm",
-  "commit": "fdf12fd6ce111e0174f3e95aaee604df4ff43767",
+  "commit": "6f47d561c87e890c30efd34c23a9ef1fa115c85a",
   "score": 100,
   "totalScore": 100,
   "exercises": [
@@ -176,8 +176,8 @@
     }
   ],
   "student": "jason-yzm",
-  "runId": "42689254949",
-  "runAttempt": "2",
+  "runId": "42690222924",
+  "runAttempt": "1",
   "upload": {
     "status": "pending"
   }
